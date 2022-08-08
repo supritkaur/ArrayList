@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArrayListFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Update_Item">Update Item</string>
+    <string name="Item">Item</string>
+    <string name="Add_Item">Add Item</string>
+    <string name="Enter_Amount">Enter Amount</string>
+</resources>
